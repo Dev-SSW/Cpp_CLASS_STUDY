@@ -23,4 +23,12 @@
 4/6  구조체 배열에 값을 랜덤으로 넣고, 순위를 정렬하고, 특정 값을 찾고, quick sort를 통해 정렬하는 함수들을 작성함.   
 4/11  (default) 구조체 배열에서 quick sort를 통한 쉬운 랭킹 정렬   
 4/11  (task/test) 구조체 X class를 통한 생성자 함수와 메소드 작성 (생성자 함수 와 생성자 함수 중복 (overload) 방법 )
-4/13  class의 멤버 함수를 외부에서 구현하고 inline, friend 사용, (quick, centerpoint find, distance, swap, findmax 함수 작성)
+4/13  class의 멤버 함수를 외부에서 구현하고 inline, friend 사용, (quick, centerpoint find, distance, swap, findmax 함수 작성)  
+4/25  class의 public 선언과 생성자 함수를 통한 값의 동적 할당 연습
+4/25  (stack) class MyStack 선언후 스택 구현
+4/27  deep copy 복사 생성자 생성 방법
+4/27  (vector) vector에서 size(), capacity(), push_back 사용법
+5/2  함수 원형 선언, 함수 중복 ( 반환 형식으로만 구별되는 같은 이름의 함수를 사용 할 수 없다)
+5/2  (1) a부터 b까지 합계 게산 함수, 0부터 a까지 합계 계산 함수, 그리기 함수, 사각형 면적 구하기, 별 찍기
+5/4  랜덤 x,y 좌표 10개의 중심점 구하기와 가장 먼 좌표, 가장 가까운 좌표 찾기를 class 이용해서 해결
+5/9  HBRUSH와 Ellipse, sleep 함수 등을 이용하여 GUI 그리기 
